@@ -119,8 +119,8 @@ for NexaCloud leadership.
 ### Executive Summary
 
 
-![Executive Summary](screenshots/01_executive_summ<img width="569" height="325" alt="Executive Summary" src="https://github.com/user-attachments/assets/c4ddebf0-e134-4f32-8ea5-9425a0d8bb9e" />
-ary.png)
+![Executive Summary](screenshots/01_executive_summary.png)<img width="569" height="325" alt="Executive Summary" src="https://github.com/user-attachments/assets/66941911-32c3-457f-8540-758b02615c54" />
+
 
 
 
